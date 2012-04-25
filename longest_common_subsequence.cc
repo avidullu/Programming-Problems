@@ -1,4 +1,4 @@
-// Longest common subsequence. This is a test modification to test commits.
+// Longest common subsequence.
 // Time: O(n^2)
 // Space: O(n^2)
 
